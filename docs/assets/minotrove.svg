@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <title>MinoTrove Paper Circuit icon</title>
+  <rect width="1024" height="1024" rx="208" fill="#f5f0e6"/>
+  <path d="M100 270V100H270 M754 924H924V754" fill="none" stroke="#bbc4bc" stroke-width="10"/>
+  <path fill="#2955d9" d="M0 36V0H9L18 12L27 0H36V36H27V14L18 26L9 14V36Z" transform="translate(260 260) scale(14)"/>
+</svg>
